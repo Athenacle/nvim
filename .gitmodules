@@ -1,0 +1,6 @@
+[submodule "plugins/vim-lsp"]
+	path = plugins/vim-lsp
+	url = https://github.com/prabirshrestha/vim-lsp.git
+[submodule "plugins/LanguageClient-neovim"]
+	path = plugins/LanguageClient-neovim
+	url = https://github.com/autozimu/LanguageClient-neovim
